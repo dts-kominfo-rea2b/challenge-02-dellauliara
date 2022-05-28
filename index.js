@@ -20,7 +20,6 @@ function lakukanLooping(arrPegawai) {
   for (let a = 0; a<dataYangAkanDilooping.length;a++){   
     let name  = dataYangAkanDilooping[a].namaDepan + " " + dataYangAkanDilooping[a].namaBelakang;
     
-   // console.log(hasilLooping1);
     hasilLooping[a] = name;
     hasilLooping[a+1];
       /*
